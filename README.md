@@ -9,4 +9,4 @@ Created for the Ludum Dare 43.
 `keepalive.lua` is the game's source code, but it's weirdly formatted because I wrote it all in TIC-80's native text editor. Probably won't do that ever again.
 
 Credits:
-* George Stone for composing CANYON.MID ("Trip Through the Grand Canyon") which covered for music in KeepAlive
+* George Stone for composing CANYON.MID ("Trip Through the Grand Canyon") which I covered for the music in KeepAlive
